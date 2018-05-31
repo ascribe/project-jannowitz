@@ -1,3 +1,5 @@
+# Attention
+## This code is not supported by bigchaindb 2.0 
 # Project Jannowitz
 
 This repository hosts the specs and experiments from the BigchainDB Application Engineering team.
